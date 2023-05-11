@@ -1,0 +1,41 @@
+﻿student_id,module,year,ass_overall,ass_avg,attendance_module
+369145702,Application Programming(Y1) ,2020,75,56,78
+369145702,Architecture and Operating System(Y1),2020,78,75,67
+369145702,Core Computing Concepts(Y1),2020,80,78,32
+369145702,Database System Development(Y1),2020,83,54,90
+369145702,Networks(Y1),2020,72,67,78
+369145702,Data Structures and Algorithms(Y2),2021,75,78,34
+369145702,Database Principles(Y2),2021,82,67,34
+369145702,Software Engineering Theory and Practice(Y2),2021,85,67,97
+369145702,Usability Engineering(Y2),2021,80,65,85
+369145702,Web Programming(Y2),2021,83,45,45
+369166485,Application Programming(Y1),2020,34,76,76
+369166485,Architecture and Operating System(Y1),2020,63,89,89
+369166485,Core Computing Concepts(Y1),2020,63,65,65
+369166485,Database System Development(Y1),2020,45,56,56
+369166485,Networks(Y1),2020,85,98,75
+369166485,Data Structures and Algorithms(Y2),2021,34,78,78
+369166485,Database Principles(Y2),2021,53,65,54
+369166485,Software Engineering Theory and Practice(Y2),2021,45,67,67
+369166485,Usability Engineering(Y2),2021,25,78,78
+369166485,Web Programming(Y2),2021,23,78,87
+369187761,Application Programming(Y1),2020,23,67,67
+369187761,Architecture and Operating System(Y1),2020,23,87,89
+369187761,Core Computing Concepts(Y1),2020,34,67,70
+369187761,Database System Development(Y1),2020,65,87,78
+369187761,Networks(Y1),2020,45,67,90
+369187761,Data Structures and Algorithms(Y2),2021,23,89,76
+369187761,Database Principles(Y2),2021,34,70,90
+369187761,Software Engineering Theory and Practice(Y2),2021,23,78,60
+369187761,Usability Engineering(Y2),2021,78,90,76
+369187761,Web Programming(Y2),2021,67,76,45
+369147309,Application Programming(Y1),2020,32,90,67
+369147309,Architecture and Operating System(Y1),2020,90,60,78
+369147309,Core Computing Concepts(Y1),2020,78,76,67
+369147309,Database System Development(Y1),2020,34,45,67
+369147309,Networks(Y1),2020,34,89,65
+369147309,Data Structures and Algorithms(Y2),2021,97,78,45
+369147309,Database Principles(Y2),2021,85,78,76
+369147309,Software Engineering Theory and Practice(Y2),2021,57,78,89
+369147309,Usability Engineering(Y2),2021,46,67,78
+369147309,Web Programming(Y2),2021,43,56,67
